@@ -1,2 +1,2 @@
-# MIPT_Data_Mining_In_Action_2016
-"Data Mining in Action Course", Moscow Institute of Physics and Technologies
+# MIPT Data Mining In Action 2016
+"Data Mining in Action" course materials, Moscow Institute of Physics and Technologies
