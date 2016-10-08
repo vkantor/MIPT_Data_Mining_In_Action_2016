@@ -1,0 +1,17 @@
+# Site settings
+title: "MIPT: Maсhine Learning"
+email: ml.course.mipt@gmail.com
+description: "Moscow Institute of Physics and Technology"
+baseurl: ""
+url: "http:///ml-mipt.github.io"
+github_username:  ml-mipt
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
