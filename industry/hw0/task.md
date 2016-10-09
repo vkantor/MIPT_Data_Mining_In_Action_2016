@@ -19,4 +19,3 @@ https://drive.google.com/file/d/0B_XgWOQXdn6jcy1BOW1weFJNZnM/view?usp=sharing
 3. Для данных алгоритмов найдите AverageRecall@1, AveragePrecision@1, AverageRecall@5, AveragePrecision@5 на обучающей и тестовых выборках, округляя до 2 знака после запятой. Это будут ваши ответы в этом задании. Отправить нужно через форму https://goo.gl/forms/EBKXxY8w9Oamltyu2
 
 
-\Gamma
