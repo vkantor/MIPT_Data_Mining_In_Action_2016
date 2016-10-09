@@ -21,6 +21,7 @@ https://inclass.kaggle.com/c/data-mining-in-action-2016-competitions-01/details/
 
 Регистируясь на kaggle, указывайте своё реальное имя и фамилию. 
 Ник на лидерборде должен выглядеть следующим образом: Имя Фамилия (ВУЗ, Курс), например "Cave Johnson (MIT, выпускник)".
+
 Ник можно изменить тут: https://inclass.kaggle.com/c/data-mining-in-action-2016-competitions-01/team/leader
 
 # Советы:
