@@ -1,0 +1,22 @@
+{
+    "task_identities": [
+        "industry/hw0",
+        "sport/hw0",
+        "trends/hw0"
+    ],
+    "industry_weights": {
+        "industry/hw0": 1.0,
+        "sport/hw0": 0.1,
+        "trends/hw0": 0.1
+    },
+    "trends_weights": {
+        "industry/hw0": 0.1,
+        "sport/hw0": 0.1,
+        "trends/hw0": 1.0
+    },
+    "sport_weights": {
+        "industry/hw0": 0.1,
+        "sport/hw0": 1.0,
+        "trends/hw0": 0.1
+    }
+}
