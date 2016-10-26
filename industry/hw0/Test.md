@@ -1,3 +1,0 @@
-| Tables        | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  | Are           | Cool  |
-| ------------- |:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 | right-aligned | $1600 |
