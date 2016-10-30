@@ -5,6 +5,7 @@ import pandas
 import numpy as np
 import os
 from collections import defaultdict
+import chardet
 
 
 def student_2_tuple(name):
@@ -34,9 +35,10 @@ if __name__ == '__main__':
     parser.add_argument('--output', type=str, required=True,
                         help='Target path')
     args = parser.parse_args()
+
     res = [
         {
-            'identity': args.all_students[student_2_tuple(obj[0].encode('utf-8'))],
+            'identity': args.all_students[student_2_tuple(obj[0].decode(chardet.detect(obj[0])['encoding']))],
             'tasks': {
                 args.input.columns[i]: obj[i]
                 for i in xrange(1, len(obj))
