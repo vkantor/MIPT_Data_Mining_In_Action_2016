@@ -13,7 +13,3 @@ df['industry/hw0'] = (df.mae <= bound_best) * 0.3 + (df.mae <= bound_fst) * 0.2 
 del df['mae']
 
 df.to_csv('industry_hw0.csv', index=False)
-
-students = sorted(set(df.name))
-with open('all_students.json', 'w') as f:
-	json.dump(students, f, indent=4, ensure_ascii=False)
