@@ -9,5 +9,5 @@
 
 Примеры использования (нужные файлы уже есть в текущей папке):
 
-1. python convert_csv_to_json.py --all-students all_students.json --input task_res.csv --output task_res.json
+1. python convert_csv_to_json.py --all-students all_students.json --input industry_hw0/industry_hw0.csv --output industry_hw0.json
 2. python build_table.py --students students_tasks/ --config rating_config.json --output table.md
