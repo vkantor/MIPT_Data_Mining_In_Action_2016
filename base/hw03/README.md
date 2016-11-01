@@ -4,10 +4,10 @@
 https://inclass.kaggle.com/c/data-mining-in-action-2016-age-prediction
 
 ## Простой бенчмарк:
-age\_sample\_solution.ipynb
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/blob/master/base/hw03/age_sample_solution.ipynb
 
 ## Бенчмарк, демонстрирующий blending:
-age\_blending\_demo.ipynb
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/blob/master/base/hw03/age_blending_demo.ipynb
 
 ## Полезные ссылки:
 ### Обработка признаков и снижение размерности
