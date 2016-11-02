@@ -19,9 +19,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #a55ac4; text-decoration: none; }
+a         { color: #527bfa; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #a55ac4; }
+a:visited { color: #527bfa; }
 
 /* Utility */
 
@@ -43,7 +43,7 @@ a:visited { color: #a55ac4; }
 
 .module-header {
   font-size: 24px;
-  color: #a55ac4;
+  color: #527bfa;
   margin-top: 20px;
   margin-bottom: 5px;
 }
@@ -126,7 +126,7 @@ a:visited { color: #a55ac4; }
 .site-header {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  background-color: #a55ac4;
+  background-color: #527bfa;
 }
 
 .site-title,
