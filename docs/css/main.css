@@ -197,6 +197,10 @@ a:visited { color: #527bfa; }
 
 .site-footer ul { list-style: none; }
 
+li { 
+    padding-left: 16px; 
+}
+
 .site-footer li,
 .site-footer p {
   font-size: 15px;
