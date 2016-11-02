@@ -1,10 +1,10 @@
 # Site settings
-title: "MIPT: Maсhine Learning"
-email: ml.course.mipt@gmail.com
+title: "Data Mining In Action"
+email: DataMiningInAction@gmail.com
 description: "Moscow Institute of Physics and Technology"
 baseurl: ""
 url: "http:///ml-mipt.github.io"
-github_username:  ml-mipt
+github_username: vkantor
 
 # Build settings
 markdown: kramdown
