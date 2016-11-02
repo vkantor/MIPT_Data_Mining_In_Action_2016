@@ -33,7 +33,7 @@ def create_config(path):
         assert False
     for task, weight in industry_weights.iteritems():
         if task not in tasks:
-            print "industry_weights's key '{}' is not found in tasks".format(task)
+            print "industry_weights's key '{}' is not found in tasks".format(task.encode('utf-8'))
             assert False
 
     sport_weights = config_obj.get('sport_weights')
@@ -43,7 +43,7 @@ def create_config(path):
         assert False
     for task, weight in sport_weights.iteritems():
         if task not in tasks:
-            print "sport_weights's key '{}' is not found in tasks".format(task)
+            print "sport_weights's key '{}' is not found in tasks".format(task.encode('utf-8'))
             assert False
 
     trends_weights = config_obj.get('trends_weights')
@@ -53,7 +53,7 @@ def create_config(path):
         assert False
     for task, weight in trends_weights.iteritems():
         if task not in tasks:
-            print "trends_weights's key '{}' is not found in tasks".format(task)
+            print "trends_weights's key '{}' is not found in tasks".format(task.encode('utf-8'))
             assert False
     return config_obj
 
@@ -95,7 +95,7 @@ def validate_students(students, config_obj):
         # validate student's tasks
         for task, score in student_tasks.iteritems():
             if task not in tasks:
-                print "Student {} has unknown task - '{}'".format(identity, task)
+                print "Student {} has unknown task - '{}'".format(identity.encode('utf-8'), task.encode('utf-8'))
                 return False
 
     return True
