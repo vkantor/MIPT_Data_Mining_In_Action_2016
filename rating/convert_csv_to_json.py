@@ -9,16 +9,20 @@ import chardet
 
 
 def student_2_tuple(name):
-    return tuple(sorted([x for x in name.split(' ') if x != '']))
+    if '@' in name:
+        return name
+    else:
+        return tuple([x for x in name.split(' ') if x != ''])[:2]
 
 
 def all_students(path):
     with open(path, 'r') as f:
         students = json.load(f)
-    res = {
-        student_2_tuple(s): s
-        for s in students
-    }
+    res = defaultdict(set)
+    for s in students:
+        res[(s['name'], s['surname'])].add(s['email'])
+        res[(s['surname'], s['name'])].add(s['email'])
+        res[s['email']].add(s['email'])
     return res
 
 
@@ -36,15 +40,17 @@ if __name__ == '__main__':
                         help='Target path')
     args = parser.parse_args()
 
-    res = [
-        {
-            'identity': args.all_students[student_2_tuple(obj[0].decode(chardet.detect(obj[0])['encoding']))],
-            'tasks': {
-                args.input.columns[i]: obj[i]
-                for i in xrange(1, len(obj))
-            }
-        }
-        for _, obj in args.input.iterrows()
-    ]
+    res = []
+    for _, obj in args.input.iterrows():
+        for email in args.all_students[student_2_tuple(obj[0].decode(chardet.detect(obj[0])['encoding']))]:
+            res.append({
+                'identity': email,
+                'tasks': {
+                    args.input.columns[i]: obj[i]
+                    for i in xrange(1, len(obj))
+                }
+            })
+        
+        
     with open(args.output, 'w') as f:
         json.dump(res, f, indent=4)
