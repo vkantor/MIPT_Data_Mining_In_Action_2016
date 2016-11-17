@@ -1,126 +1,167 @@
-|     | student                          |   industry/hw0 |   sport/hw0 |   trends/hw0 |   industry_result |   sport_result |   trends_result |
-|----:|:---------------------------------|---------------:|------------:|-------------:|------------------:|---------------:|----------------:|
-|  94 | adaico.z@gmail.com               |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  42 | agets@inbox.ru                   |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|   7 | akutafin@gmail.com               |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  27 | al.kurochkin93@gmail.com         |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 109 | albert.nagapetyan@phystech.edu   |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-| 114 | aleksandr.boymel@phystech.edu    |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 118 | alesha148@gmail.com              |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  86 | alex.kuznetsov87@gmail.com       |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  28 | alexandermed@mail.ru             |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  17 | alexandr.ivanov2108@gmail.com    |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  82 | aloha@74.ru                      |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  34 | andrew.a846@gmail.com            |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  60 | animals_ua@ukr.net               |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  83 | anton.lukashchuk@skolkovotech.ru |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  79 | anton.zaharenkov@phystech.edu    |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  67 | antontrubakov@gmail.com          |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  15 | armagy@gmail.com                 |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  10 | arsen.a13.1445@mail.ru           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  74 | artem.potapov@frtk.ru            |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  91 | ayagoz.musabaeva@mail.ru         |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  64 | betley.artem@phystech.edu        |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  84 | boldyrevside@gmail.com           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|   5 | bonlimezak@gmail.com             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  26 | cache-nez@yandex.ru              |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  87 | cheskidova@phystech.edu          |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  29 | chuikova.e.e@yandex.ru           |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 117 | d.zhadikov@gmail.com             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  61 | dania.91@mail.ru                 |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  98 | daniil.parinov@phystech.edu      |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  78 | daniil.polyakov@phystech.edu     |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  59 | dasha.fokina@phystech.edu        |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  92 | denis.kalmykov@phystech.edu      |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  88 | denis.smirnov.b@gmail.com        |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 121 | dmitr-doronin@yandex.ru          |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|   3 | edgy1969@gmail.com               |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  14 | elis24.96@mail.ru                |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  73 | erumynskiy@gmail.com             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|   8 | etsu.nikolaev@gmail.com          |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  90 | evfro@live.ru                    |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 108 | evgeny.parinov@frtk.ru           |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 113 | evgetv28@yandex.ru               |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 116 | fedorova-elizaveta@yandex.ru     |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  20 | fileasfog931997@gmail.com        |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  56 | filipv.kate@gmail.com            |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  11 | firesonics@yandex.ru             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  16 | gapeevanad@gmail.com             |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  49 | gasanov1996@inbox.ru             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|   4 | gilyazutdinov@phystech.edu       |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 100 | gregorian21@yandex.ru            |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  89 | gubsergevg@yandex.ru             |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  31 | howtodo@ya.ru                    |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  18 | igashov.i@yandex.ru              |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  96 | igor.kozlovskiy@phystech.edu     |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  66 | igor.krasovskii@phystech.edu     |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  70 | igor.musinov@phystech.edu        |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  75 | ilya.i.belikov@gmail.com         |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  12 | ilyagukov@list.ru                |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  85 | ilyazaharkin@yandex.ru           |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-| 120 | irdav2007@rambler.ru             |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  65 | islamovaveramail@gmail.com       |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  93 | jei.pi.em@gmail.com              |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  68 | kamaldinova@phystech.edu         |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  48 | kamenev.andrew@gmail.com         |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  63 | kanzeparov@yandex.ru             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  39 | kazakov1501@gmail.com            |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-| 102 | kbaryshev3@gmail.com             |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  50 | khammatova.diana@ya.ru           |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  54 | kireevkarim@yandex.ru            |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 105 | kirill.skornyakov@phystech.edu   |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  21 | kirya.tushin1@yandex.ru          |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  77 | kolchenkosergey@gmail.com        |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  40 | ladyae@ya.ru                     |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 110 | levdik.pavel@gmail.com           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  81 | m.koptev@outlook.com             |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  37 | m.zubrikhina2014@yandex.ru       |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  44 | maltsev.ai96@gmail.com           |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  13 | mark.andreev@gmail.com           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  33 | mark.potanin@phystech.edu        |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  80 | migdal@phystech.edu              |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  58 | mkvilkin@gmail.com               |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 101 | mokrov.ns@phystech.com           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-| 123 | morgachev.gi@phystech.edu        |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  99 | mshipkhineev@gmail.com           |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  43 | nastyakul1997@gmail.com          |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  76 | nazarov_ni@mail.ru               |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|   0 | nekhaev.d.v@yandex.ru            |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  51 | neverovmipt@gmail.com            |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-| 122 | oezebnitskiy@edu.hse.ru          |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  19 | olorin44@mail.ru                 |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 104 | paltoszaharov@yandex.ru          |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  23 | parpulov.dmitriy@yandex.ru       |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|   6 | parubchenko@phystech.edu         |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  57 | pavsmel@mail.ru                  |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  55 | pbaranov91@gmail.com             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  25 | petrov.still@gmail.com           |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-| 115 | plahtinskiy.ve@phystech.edu      |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  22 | puleon@mail.ru                   |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|   9 | roman.a.doronin@phystech.edu     |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-| 112 | roman.gonchar@phystech.edu       |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  36 | rubanenko.em@phystech.edu        |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-| 119 | sao1992@mail.ru                  |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  71 | sargin@phystech.edu              |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  24 | savelievatanyya@gmail.com        |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  72 | sergeynikiforov761@gmail.com     |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-| 111 | shaposhnikov@phystech.edu        |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  52 | shuvalovnickolay@gmail.com       |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 103 | sinyakov@phystech.edu            |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  53 | snorkin@phystech.edu             |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  35 | st.stupnikov@gmail.com           |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  30 | stankuld@gmail.com               |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|   1 | storozhewa.anastasya@yandex.ru   |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  97 | usmanovakr96@gmail.com           |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  32 | ustinov.ant@gmail.com            |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|   2 | valankin@gmail.com               |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-| 106 | vasiliy.molotov@gmail.com        |            0.7 |           0 |            0 |               0.7 |           0.07 |            0.07 |
-|  45 | vinogradovvi61@gmail.com         |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-|  46 | vladimir.sidorov@phystech.edu    |            1   |           0 |            0 |               1   |           0.1  |            0.1  |
-| 107 | vladislav.boyadzhi@gmail.com     |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  95 | vladmatyukh@gmail.com            |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  62 | vladpenkovskiy@yandex.ru         |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  47 | yar.spirin@gmail.com             |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  38 | yu.eronina@gmail.com             |            0.3 |           0 |            0 |               0.3 |           0.03 |            0.03 |
-|  69 | zhenystanchin@mail.ru            |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
-|  41 | zverevads@gmail.com              |            0.5 |           0 |            0 |               0.5 |           0.05 |            0.05 |
+|     | student                          |   industry/hw0 |   sport/hw0 |   sport/hw1 |   sport/hw2 |   trends/hw0 |   industry_result |   sport_result |   trends_result |
+|----:|:---------------------------------|---------------:|------------:|------------:|------------:|-------------:|------------------:|---------------:|----------------:|
+| 123 | adaico.z@gmail.com               |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  57 | agets@inbox.ru                   |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  15 | akutafin@gmail.com               |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  40 | al.kurochkin93@gmail.com         |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 142 | albert.nagapetyan@phystech.edu   |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 149 | aleksandr.boymel@phystech.edu    |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  13 | alekstanok@yandex.ru             |            0   |   0.92      |           1 |    0        |            0 |         0.192     |       1.92     |       0.192     |
+| 157 | alesha148@gmail.com              |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 114 | alex.kuznetsov87@gmail.com       |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 153 | alex.paru95@gmail.com            |            0   |   0.08      |           1 |    0        |            0 |         0.108     |       1.08     |       0.108     |
+|  41 | alexandermed@mail.ru             |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  27 | alexandr.ivanov2108@gmail.com    |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 110 | allex93@yandex.ru                |            0   |   0.413333  |           1 |    0.752577 |            0 |         0.216591  |       2.16591  |       0.216591  |
+| 108 | aloha@74.ru                      |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  23 | altsiona@yandex.ru               |            0   |   0.346667  |           1 |    0        |            0 |         0.134667  |       1.34667  |       0.134667  |
+|  12 | anast.bayandina@gmail.com        |            0   |   0.973333  |           1 |    0        |            0 |         0.197333  |       1.97333  |       0.197333  |
+|  47 | andrew.a846@gmail.com            |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  80 | animals_ua@ukr.net               |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  97 | anna.k.b@yandex.ru               |            0   |   0.693333  |           1 |    0        |            0 |         0.169333  |       1.69333  |       0.169333  |
+| 109 | anton.lukashchuk@skolkovotech.ru |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 105 | anton.zaharenkov@phystech.edu    |            0.5 |   0.213333  |           0 |    0.917526 |            0 |         0.613086  |       1.18086  |       0.163086  |
+|  89 | antontrubakov@gmail.com          |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  25 | armagy@gmail.com                 |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  18 | arsen.a13.1445@mail.ru           |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  99 | artem.potapov@frtk.ru            |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  38 | artemmerinov@yandex.ru           |            0   |   0.786667  |           1 |    0        |            0 |         0.178667  |       1.78667  |       0.178667  |
+| 119 | ayagoz.musabaeva@mail.ru         |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  84 | betley.artem@phystech.edu        |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 112 | boldyrevside@gmail.com           |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  11 | bonlimezak@gmail.com             |            0.3 |   0.0666667 |           1 |    0        |            0 |         0.406667  |       1.09667  |       0.136667  |
+|  39 | cache-nez@yandex.ru              |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  71 | canorbal@gmail.com               |            0   |   0.96      |           0 |    0.896907 |            0 |         0.185691  |       1.85691  |       0.185691  |
+| 115 | cheskidova@phystech.edu          |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  42 | chuikova.e.e@yandex.ru           |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 156 | d.zhadikov@gmail.com             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 111 | danchern97@mail.ru               |            0   |   0.84      |           1 |    0        |            0 |         0.184     |       1.84     |       0.184     |
+|  81 | dania.91@mail.ru                 |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 128 | daniil.parinov@phystech.edu      |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 104 | daniil.polyakov@phystech.edu     |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  79 | dasha.fokina@phystech.edu        |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 121 | denis.kalmykov@phystech.edu      |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 116 | denis.smirnov.b@gmail.com        |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 139 | dk@aha.ru                        |            0   |   0.706667  |           0 |    0.731959 |            0 |         0.143863  |       1.43863  |       0.143863  |
+| 162 | dmitr-doronin@yandex.ru          |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  65 | dragonicthebest@gmail.com        |            0   |   0.133333  |           1 |    0        |            0 |         0.113333  |       1.13333  |       0.113333  |
+|   5 | edgy1969@gmail.com               |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  22 | elis24.96@mail.ru                |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  96 | erumynskiy@gmail.com             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  16 | etsu.nikolaev@gmail.com          |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 118 | evfro@live.ru                    |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 141 | evgeny.parinov@frtk.ru           |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 148 | evgetv28@yandex.ru               |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  94 | fattahov.ao@phystech.edu         |            0   |   0.813333  |           1 |    0        |            0 |         0.181333  |       1.81333  |       0.181333  |
+| 154 | fedorova-elizaveta@yandex.ru     |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  30 | fileasfog931997@gmail.com        |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  76 | filipv.kate@gmail.com            |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  19 | firesonics@yandex.ru             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  54 | fizaxify@gmail.com               |            0   |   0.28      |           1 |    0        |            0 |         0.128     |       1.28     |       0.128     |
+|  26 | gapeevanad@gmail.com             |            0.5 |   0.373333  |           1 |    0        |            0 |         0.637333  |       1.42333  |       0.187333  |
+|  66 | gasanov1996@inbox.ru             |            0.3 |   0.0533333 |           1 |    0        |            0 |         0.405333  |       1.08333  |       0.135333  |
+|  10 | gilyazutdinov@phystech.edu       |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 130 | gregorian21@yandex.ru            |            0.7 |   0.853333  |           0 |    0.876289 |            0 |         0.872962  |       1.79962  |       0.242962  |
+| 117 | gubsergevg@yandex.ru             |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 138 | heapnhash@gmail.com              |            0   |   0.506667  |           1 |    0        |            0 |         0.150667  |       1.50667  |       0.150667  |
+|  44 | howtodo@ya.ru                    |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  28 | igashov.i@yandex.ru              |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 126 | igor.kozlovskiy@phystech.edu     |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  88 | igor.krasovskii@phystech.edu     |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  92 | igor.musinov@phystech.edu        |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 159 | ilya.belkin-trade@yandex.ru      |            0   |   0         |           0 |    0.773196 |            0 |         0.0773196 |       0.773196 |       0.0773196 |
+| 100 | ilya.i.belikov@gmail.com         |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  20 | ilyagukov@list.ru                |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 113 | ilyazaharkin@yandex.ru           |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 160 | irdav2007@rambler.ru             |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  85 | islamovaveramail@gmail.com       |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 122 | jei.pi.em@gmail.com              |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  90 | kamaldinova@phystech.edu         |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  64 | kamenev.andrew@gmail.com         |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  83 | kanzeparov@yandex.ru             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  49 | karudakov@gmail.com              |            0   |   0.72      |           0 |    0.958763 |            0 |         0.167876  |       1.67876  |       0.167876  |
+|  98 | katya.adamenko@gmail.com         |            0   |   0.16      |           1 |    0        |            0 |         0.116     |       1.16     |       0.116     |
+|  53 | kazakov1501@gmail.com            |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 132 | kbaryshev3@gmail.com             |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  67 | khammatova.diana@ya.ru           |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  74 | kireevkarim@yandex.ru            |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  60 | kirill.mouraviev@yandex.ru       |            0   |   0.226667  |           1 |    0        |            0 |         0.122667  |       1.22667  |       0.122667  |
+| 135 | kirill.skornyakov@phystech.edu   |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  31 | kirya.tushin1@yandex.ru          |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 103 | kolchenkosergey@gmail.com        |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 120 | kupriyanovartem@yandex.ru        |            0   |   0.613333  |           0 |    0        |            0 |         0.0613333 |       0.613333 |       0.0613333 |
+|   1 | kuzmichevdima95@gmail.com        |            0   |   0.52      |           1 |    0        |            0 |         0.152     |       1.52     |       0.152     |
+|  55 | ladyae@ya.ru                     |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 143 | lev_sky@mail.ru                  |            0   |   0.906667  |           1 |    0.85567  |            0 |         0.276234  |       2.76234  |       0.276234  |
+| 144 | levdik.pavel@gmail.com           |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  86 | lukoyanov.as@phystech.edu        |            0   |   0.64      |           0 |    0.690722 |            0 |         0.133072  |       1.33072  |       0.133072  |
+| 107 | m.koptev@outlook.com             |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  51 | m.zubrikhina2014@yandex.ru       |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  59 | maltsev.ai96@gmail.com           |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|   6 | mar_tek@mail.ru                  |            0   |   0         |           0 |    0.814433 |            0 |         0.0814433 |       0.814433 |       0.0814433 |
+|  21 | mark.andreev@gmail.com           |            0.3 |   0.8       |           1 |    0        |            0 |         0.48      |       1.83     |       0.21      |
+|  46 | mark.potanin@phystech.edu        |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 106 | migdal@phystech.edu              |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  78 | mkvilkin@gmail.com               |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 131 | mokrov.ns@phystech.com           |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 164 | morgachev.gi@phystech.edu        |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 129 | mshipkhineev@gmail.com           |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  73 | nasburya@gmail.com               |            0   |   0.04      |           1 |    0        |            0 |         0.104     |       1.04     |       0.104     |
+|  58 | nastyakul1997@gmail.com          |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 102 | natalikozlovskaya@gmail.com      |            0   |   0.0933333 |           1 |    0        |            0 |         0.109333  |       1.09333  |       0.109333  |
+| 101 | nazarov_ni@mail.ru               |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|   0 | nekhaev.d.v@yandex.ru            |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|   9 | neo-prima@yandex.ru              |            0   |   0.453333  |           1 |    0        |            0 |         0.145333  |       1.45333  |       0.145333  |
+|  68 | neverovmipt@gmail.com            |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  24 | nickolay1g@yandex.ru             |            0   |   0.0133333 |           1 |    0        |            0 |         0.101333  |       1.01333  |       0.101333  |
+| 137 | nie1997@yandex.ru                |            0   |   0.4       |           1 |    0        |            0 |         0.14      |       1.4      |       0.14      |
+| 145 | ocksumoron@yandex.ru             |            0   |   0         |           0 |    0.793814 |            0 |         0.0793814 |       0.793814 |       0.0793814 |
+| 163 | oezebnitskiy@edu.hse.ru          |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  29 | olorin44@mail.ru                 |            0.7 |   0.36      |           1 |    0        |            0 |         0.836     |       1.43     |       0.206     |
+| 134 | paltoszaharov@yandex.ru          |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  33 | parpulov.dmitriy@yandex.ru       |            1   |   0.573333  |           0 |    0.979381 |            0 |         1.15527   |       1.65271  |       0.255271  |
+|  14 | parubchenko@phystech.edu         |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  77 | pavsmel@mail.ru                  |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  75 | pbaranov91@gmail.com             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  35 | petr.bolotin@phystech.edu        |            0   |   0.493333  |           1 |    0        |            0 |         0.149333  |       1.49333  |       0.149333  |
+|  36 | petrov.still@gmail.com           |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+| 151 | plahtinskiy.ve@phystech.edu      |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|   8 | platovd@gmail.com                |            0   |   0.186667  |           1 |    0        |            0 |         0.118667  |       1.18667  |       0.118667  |
+|  87 | prusovigor@gmail.com             |            0   |   0.2       |           1 |    0        |            0 |         0.12      |       1.2      |       0.12      |
+|  32 | puleon@mail.ru                   |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 152 | r.rakhimov@my.com                |            0   |   0.333333  |           1 |    0        |            0 |         0.133333  |       1.33333  |       0.133333  |
+|  37 | raya.orlova.98@mail.ru           |            0   |   0.106667  |           1 |    0        |            0 |         0.110667  |       1.10667  |       0.110667  |
+|  17 | roman.a.doronin@phystech.edu     |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+| 147 | roman.gonchar@phystech.edu       |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  50 | rubanenko.em@phystech.edu        |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|   7 | ruslan.sabirgaliev@phystech.edu  |            0   |   0.653333  |           1 |    0        |            0 |         0.165333  |       1.65333  |       0.165333  |
+| 158 | sao1992@mail.ru                  |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  93 | sargin@phystech.edu              |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  34 | savelievatanyya@gmail.com        |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  95 | sergeynikiforov761@gmail.com     |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 146 | shaposhnikov@phystech.edu        |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  70 | shuvalovnickolay@gmail.com       |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 133 | sinyakov@phystech.edu            |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  72 | snorkin@phystech.edu             |            1   |   0.0266667 |           1 |    0        |            0 |         1.10267   |       1.12667  |       0.202667  |
+|  48 | st.stupnikov@gmail.com           |            0.5 |   0.893333  |           1 |    0        |            0 |         0.689333  |       1.94333  |       0.239333  |
+|  43 | stankuld@gmail.com               |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|   3 | storozhewa.anastasya@yandex.ru   |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|   2 | tilgasergey@gmail.com            |            0   |   0.946667  |           1 |    0        |            0 |         0.194667  |       1.94667  |       0.194667  |
+| 127 | usmanovakr96@gmail.com           |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  45 | ustinov.ant@gmail.com            |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 155 | v.tushkanov@outlook.com          |            0   |   0.24      |           1 |    0        |            0 |         0.124     |       1.24     |       0.124     |
+|   4 | valankin@gmail.com               |            0.5 |   0.266667  |           1 |    0        |            0 |         0.626667  |       1.31667  |       0.176667  |
+| 136 | vasiliy.molotov@gmail.com        |            0.7 |   0         |           0 |    0        |            0 |         0.7       |       0.07     |       0.07      |
+|  61 | vinogradovvi61@gmail.com         |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+|  69 | vladfedorenko94@gmail.com        |            0   |   0.253333  |           1 |    0        |            0 |         0.125333  |       1.25333  |       0.125333  |
+|  62 | vladimir.sidorov@phystech.edu    |            1   |   0         |           0 |    0        |            0 |         1         |       0.1      |       0.1       |
+| 140 | vladislav.boyadzhi@gmail.com     |            0.3 |   0.386667  |           1 |    0        |            0 |         0.438667  |       1.41667  |       0.168667  |
+| 124 | vladmatyukh@gmail.com            |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+|  82 | vladpenkovskiy@yandex.ru         |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 125 | vladzab@yandex.ru                |            0   |   0.48      |           1 |    0        |            0 |         0.148     |       1.48     |       0.148     |
+|  63 | yar.spirin@gmail.com             |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 150 | yassnda@gmail.com                |            0   |   0.293333  |           0 |    0.71134  |            0 |         0.100467  |       1.00467  |       0.100467  |
+|  52 | yu.eronina@gmail.com             |            0.3 |   0         |           0 |    0        |            0 |         0.3       |       0.03     |       0.03      |
+|  91 | zhenystanchin@mail.ru            |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
+| 161 | ziliboba753@gmail.com            |            0   |   0.76      |           1 |    0        |            0 |         0.176     |       1.76     |       0.176     |
+|  56 | zverevads@gmail.com              |            0.5 |   0         |           0 |    0        |            0 |         0.5       |       0.05     |       0.05      |
