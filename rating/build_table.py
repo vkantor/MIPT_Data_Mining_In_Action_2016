@@ -151,3 +151,5 @@ if __name__ == '__main__':
 
         with open(args.output, 'w') as f:
             f.write(tabulate(df, headers="keys", tablefmt="pipe").encode('utf-8') + '\n')
+
+        df.to_csv(args.output + '.csv', encoding='utf-8')
