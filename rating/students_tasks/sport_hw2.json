@@ -183,6 +183,12 @@
         "tasks": {
             "sport/hw2": 0.0
         }, 
+        "identity": "severinovaleksandr@gmail.com"
+    }, 
+    {
+        "tasks": {
+            "sport/hw2": 0.0
+        }, 
         "identity": "nie1997@yandex.ru"
     }, 
     {
@@ -316,5 +322,11 @@
             "sport/hw2": 0.0
         }, 
         "identity": "nickolay1g@yandex.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw2": 0.71023712
+        }, 
+        "identity": "firesonics@yandex.ru"
     }
 ]
