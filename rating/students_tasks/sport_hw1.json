@@ -55,7 +55,7 @@
     }, 
     {
         "tasks": {
-            "sport/hw1": 0
+            "sport/hw1": 1
         }, 
         "identity": "yassnda@gmail.com"
     }, 
@@ -67,7 +67,7 @@
     }, 
     {
         "tasks": {
-            "sport/hw1": 0
+            "sport/hw1": 1
         }, 
         "identity": "parpulov.dmitriy@yandex.ru"
     }, 
@@ -178,6 +178,12 @@
             "sport/hw1": 1
         }, 
         "identity": "neo-prima@yandex.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw1": 1
+        }, 
+        "identity": "severinovaleksandr@gmail.com"
     }, 
     {
         "tasks": {
@@ -316,5 +322,11 @@
             "sport/hw1": 1
         }, 
         "identity": "nickolay1g@yandex.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw1": 1
+        }, 
+        "identity": "firesonics@yandex.ru"
     }
 ]
