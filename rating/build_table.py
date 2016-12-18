@@ -100,6 +100,15 @@ def validate_students(students, config_obj):
 
     return True
 
+def all_students(path):
+    with open(path, 'r') as f:
+        students = json.load(f)
+    res = {
+        s['email']: u'{} {}'.format(s['surname'], s['name'])
+        for s in students
+    }
+    return res
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Build markdown from jsons')
@@ -109,6 +118,8 @@ if __name__ == '__main__':
                         help='Path to json with table configuration (usually it is rating_config.json)')
     parser.add_argument('--output', type=str, required=True,
                         help='Target path')
+    parser.add_argument('--all-students', type=all_students, required=True,
+                        help='path to json with all students')
     args = parser.parse_args()
 
     if validate_students(args.students, args.config):
@@ -118,7 +129,7 @@ if __name__ == '__main__':
         }
         df['student'] = []
         for student in args.students:
-            df['student'].append(student['identity'])
+            df['student'].append(args.all_students[student['identity']])
             student_tasks = student.get("tasks", {})
 
             for task, length in zip(args.config['task_identities'], args.config['task_lengths']):
@@ -140,3 +151,5 @@ if __name__ == '__main__':
 
         with open(args.output, 'w') as f:
             f.write(tabulate(df, headers="keys", tablefmt="pipe").encode('utf-8') + '\n')
+
+        df.to_csv(args.output + '.csv', encoding='utf-8')
