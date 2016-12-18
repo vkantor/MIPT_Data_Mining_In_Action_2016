@@ -2,21 +2,33 @@
     "task_identities": [
         "industry/hw0",
         "sport/hw0",
-        "trends/hw0"
+        "sport/hw1",
+        "sport/hw2",
+        "trends/hw0",
+        "python_hw"
     ],
     "industry_weights": {
         "industry/hw0": 1.0,
         "sport/hw0": 0.1,
-        "trends/hw0": 0.1
+        "sport/hw1": 0.1,
+        "sport/hw2": 0.1,
+        "trends/hw0": 0.1,
+        "python_hw": 1.0
     },
     "trends_weights": {
         "industry/hw0": 0.1,
         "sport/hw0": 0.1,
-        "trends/hw0": 1.0
+        "sport/hw1": 0.1,
+        "sport/hw2": 0.1,
+        "trends/hw0": 1.0,
+        "python_hw": 0.3
     },
     "sport_weights": {
         "industry/hw0": 0.1,
         "sport/hw0": 1.0,
-        "trends/hw0": 0.1
+        "sport/hw1": 1.0,
+        "sport/hw2": 1.0,
+        "trends/hw0": 0.1,
+        "python_hw": 0.3
     }
 }
