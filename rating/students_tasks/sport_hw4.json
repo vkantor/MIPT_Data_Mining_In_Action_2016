@@ -1,0 +1,38 @@
+[
+    {
+        "tasks": {
+            "sport/hw4": 1.0
+        }, 
+        "identity": "parpulov.dmitriy@yandex.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw4": 0.9
+        }, 
+        "identity": "firesonics16@gmail.com"
+    }, 
+    {
+        "tasks": {
+            "sport/hw4": 0.8
+        }, 
+        "identity": "mark.andreev@gmail.com"
+    }, 
+    {
+        "tasks": {
+            "sport/hw4": 0.7
+        }, 
+        "identity": "myroot@mfsa.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw4": 0.6
+        }, 
+        "identity": "dk@aha.ru"
+    }, 
+    {
+        "tasks": {
+            "sport/hw4": 0.5
+        }, 
+        "identity": "canorbal@gmail.com"
+    }
+]
