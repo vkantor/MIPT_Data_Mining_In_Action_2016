@@ -4,6 +4,8 @@
         "sport/hw0",
         "sport/hw1",
         "sport/hw2",
+        "sport/hw3",
+        "sport/hw4",
         "trends/hw0",
         "python_hw"
     ],
@@ -12,6 +14,8 @@
         "sport/hw0": 0.1,
         "sport/hw1": 0.1,
         "sport/hw2": 0.1,
+        "sport/hw3": 0.1,
+        "sport/hw4": 0.1,
         "trends/hw0": 0.1,
         "python_hw": 1.0
     },
@@ -20,6 +24,8 @@
         "sport/hw0": 0.1,
         "sport/hw1": 0.1,
         "sport/hw2": 0.1,
+        "sport/hw3": 0.1,
+        "sport/hw4": 0.1,
         "trends/hw0": 1.0,
         "python_hw": 0.3
     },
@@ -28,6 +34,8 @@
         "sport/hw0": 1.0,
         "sport/hw1": 1.0,
         "sport/hw2": 1.0,
+        "sport/hw3": 1.0,
+        "sport/hw4": 1.0,
         "trends/hw0": 0.1,
         "python_hw": 0.3
     }
