@@ -1,0 +1,32 @@
+This lecture introduces a more theoretically sound reinforcement learning algorithm called policy gradient and it's improvements based on advantage function (advantage actor-critic).
+
+The materials are based on [Practical RL course](https://github.com/yandexdataschool/Practical_RL). 
+You can also find more detailed versions of lectures/seminars there (see week2 and 3).
+
+
+## Materials
+* [__Lecture slides__](https://docviewer.yandex.ru/?url=ya-disk-public%3A%2F%2FG3IXcG62RwNUGSSos%2BuGhtgXNfsBjP9RxUtUfgCffIk%3D%3A%2Flecture2.pdf&name=lecture2.pdf&c=58a61e22b9fb)
+* Our [lecture](https://yadi.sk/i/cVawsPkK3EtGJj),[seminar](https://yadi.sk/i/dQmolwOy3EtGNK) (russian)
+* [__main__] Lecture by David Silver (english): https://www.youtube.com/watch?v=PnHCvfgC_ZA
+* Alternative lecture by Pieter Abbeel (english): https://www.youtube.com/watch?v=ifma8G7LegE
+* Alternative lecture by John Schulmann (english): https://www.youtube.com/watch?v=IL3gVyJMmhg
+
+For ease of access, we have 2 versions of the same homework. They feature the same algorithmic part but a bit different examples.
+
+You can pick whichever one you prefer but mind the technical limitations. If you have a python2 on a local machine (NOT in docker), even if it's on Windows, we recommend the ./assignment one.
+
+## ./assignment
+_this assignment borrows code from awesome [cs188](http://ai.berkeley.edu/project_overview.html)_
+This homework assignment works on __python2 only__. If you stick to py3, consider alternative homework. Or just install it for this homework alone and remove afterwards.
+
+This homework also requires some physical display (e.g. laptop monitor). It won't work on binder VM / headless server. Please run it on laptop or consider ./alternative
+
+* Go to ./assignment, edit [__qlearningagents.py__](https://github.com/yandexdataschool/Practical_RL/blob/master/week2/assignment/qlearningAgents.py) (see instructions inside)
+* Make sure you can tune agent to beat ./run_crawler.sh
+ * on windows, just run `python crawler.py` from cmd in the project directory
+* other ./run* files are mostly for your amusement. 
+  * ./run_pacman.sh will need more epochs to converge, see [comments](https://github.com/yandexdataschool/Practical_RL/blob/master/week2/assignment/run_pacman.sh)
+  * on windows, just copy the type `python pacman.py -p PacmanQAgent -x 2000 -n 2010 -l smallGrid` in cmd from assignemnt dir
+(YSDA/HSE) Please submit only qlearningAgents.py file and include a brief text report as comments in it.
+  
+
